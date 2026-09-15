@@ -1,0 +1,56 @@
+[
+  {
+    "id": "prod_101",
+    "name": "Aurora Wireless Headphones",
+    "category": "electronics",
+    "price": 129.99,
+    "stock": 25,
+    "rating": 4.6,
+    "createdAt": "2026-01-10T09:00:00.000Z"
+  },
+  {
+    "id": "prod_102",
+    "name": "Nimbus Mechanical Keyboard",
+    "category": "electronics",
+    "price": 89.5,
+    "stock": 3,
+    "rating": 4.8,
+    "createdAt": "2026-02-02T14:30:00.000Z"
+  },
+  {
+    "id": "prod_103",
+    "name": "Terra Stainless Water Bottle",
+    "category": "home",
+    "price": 24.0,
+    "stock": 0,
+    "rating": 4.2,
+    "createdAt": "2026-02-18T11:15:00.000Z"
+  },
+  {
+    "id": "prod_104",
+    "name": "Cirrus Cotton Throw Blanket",
+    "category": "home",
+    "price": 42.75,
+    "stock": 40,
+    "rating": 4.4,
+    "createdAt": "2026-03-05T08:45:00.000Z"
+  },
+  {
+    "id": "prod_105",
+    "name": "Vertex Trail Running Shoes",
+    "category": "apparel",
+    "price": 110.0,
+    "stock": 12,
+    "rating": 4.7,
+    "createdAt": "2026-03-20T16:20:00.000Z"
+  },
+  {
+    "id": "prod_106",
+    "name": "Solstice Merino Wool Socks",
+    "category": "apparel",
+    "price": 18.25,
+    "stock": 60,
+    "rating": 4.1,
+    "createdAt": "2026-04-01T10:05:00.000Z"
+  }
+]

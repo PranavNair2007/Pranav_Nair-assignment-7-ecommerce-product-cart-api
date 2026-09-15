@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Environment (never commit real secrets)
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+
+# NOTE: data/*.json is intentionally NOT ignored.
+# The JSON files under data/ are the persistence layer and ship with seed data.
